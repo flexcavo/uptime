@@ -22,9 +22,9 @@
     "url": "https://www.flexcavo.de",
     "icon": "https://favicons.githubusercontent.com/www.flexcavo.de",
     "slug": "flexcavo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 706,
     "timeMonth": 702,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   },
   {
     "name": "Flexcavo Website",
     "url": "https://api.flexcavo.de/health",
     "icon": "https://favicons.githubusercontent.com/api.flexcavo.de",
     "slug": "flexcavo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 706,
     "timeMonth": 702,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   }
 ]
