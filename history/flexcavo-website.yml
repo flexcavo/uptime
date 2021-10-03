@@ -1,7 +1,7 @@
-url: https://www.flexcavo.de
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2021-10-03T19:16:41.487Z
+url: https://api.flexcavo.de/health
+status: down
+code: 503
+responseTime: 393
+lastUpdated: 2021-10-03T19:16:43.544Z
 startTime: Tue Jul 13 2021 13:49:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
